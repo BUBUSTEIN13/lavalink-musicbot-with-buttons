@@ -1,16 +1,16 @@
 {
-    "token": "ODgzNzYyMzU0NTU3NDM1OTY0.YTOp1A.7TFZW1udVq1-RUgo0gzEk8WT3t0", 
-    "mongourl": "mongodb+srv://8gbram:<password>@cluster0.tlbmj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "token": "ODYwNTI0Njc4MjQ2MTcwNjU0.YN8gDw.6ZP8XEo6cpv5GXalUcFMAHZpFMU", 
+    "mongourl": "mongodb+srv://BUBUSTEIN:cy57sSmmB_Ngank@bubusteinguard.e3ujc.mongodb.net/BUBUSTEINGuard?retryWrites=true&w=majority",
     "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
-    "prefix": "!",
-    "ownerID": "882598149141692426", 
-    "SpotifyID": "",
-    "SpotifySecret": "",
-    "embedColor": "#303236",
+    "prefix": ";",
+    "ownerID": "693381473083850753", 
+    "SpotifyID": "9abe65b876f04078944f54460bdba375",
+    "SpotifySecret": "3da1e4c3348a4e33bece299a5983a3ff",
+    "embedColor": "#fc8301",
      "nodes": [
     
     {
-      "host": "https://lavalink-repl-2.pranavjs.repl.co",
+      "host": "https://lava1.bubustein.repl.co",
       "port": 443,
       "password": "youshallnotpass",
       "retryDelay": 3000,
